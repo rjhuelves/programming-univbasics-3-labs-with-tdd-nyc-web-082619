@@ -12,3 +12,6 @@ difference = ""
   expect(difference).to eq(first_number-second_number)
 
 product = ""
+  expect(product).to eq(first_number*second_number)
+
+quotient = " "
