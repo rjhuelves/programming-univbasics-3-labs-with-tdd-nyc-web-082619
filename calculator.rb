@@ -15,3 +15,4 @@ product = ""
   expect(product).to eq(first_number*second_number)
 
 quotient = " "
+  expect(quotient).to eq(first_number/second_number)
