@@ -9,3 +9,6 @@ second_number = ""
   expect(sum).to eq(first_number+second_number)
   
 difference = ""
+  expect(difference).to eq(first_number-second_number)
+
+product = ""
