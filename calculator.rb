@@ -7,3 +7,5 @@ second_number = ""
  
  sum = ""
   expect(sum).to eq(first_number+second_number)
+  
+difference = ""
